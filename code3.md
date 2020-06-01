@@ -53,4 +53,4 @@ int main(void)
 }
 ~~~
 
-![example3](\assets\images\pi\example3.JPG)
+![example3](/assets/images/pi/example3.JPG)
