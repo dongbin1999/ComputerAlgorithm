@@ -30,17 +30,17 @@
 
 ### #1번 방법
 
-![example](\images\example.JPG)
+![example](\assets\images\pi\example.JPG)
 
 
 
 ### #2번 방법
 
-![example2](\images\example2.JPG)
+![example2](\assets\images\pi\example2.JPG)
 
 
 
 ### #3번 방법
 
-![example3](\images\example3.JPG)
+![example3](\assets\images\pi\example3.JPG)
 
